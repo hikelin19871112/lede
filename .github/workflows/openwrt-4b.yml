@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: pi_4b
+name: pi_6b
 
 on:
   push:
